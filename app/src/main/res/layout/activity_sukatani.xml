@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SukataniActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#008000"
+                android:padding="@dimen/padding"
+                android:text="Sukatani"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="@string/sukatani" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Prediksi jarak jangkauan longsor di lokasi penelitian" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="210dp"
+                android:layout_gravity="center"
+                android:src="@drawable/sk_4" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Analisis bidang gelincir lintasan berdasarkan pemodelan GeoStudio SLOPE/W" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Analisis bidang gelincir lintasan  berdasarkan pemodelan pyBIMstabParameter yang digunakan dalam analisis jarak jangkauan dan kecepatan longsor dengan pendekatan pusat massa pada pemodelan pyBIMstab dan geo studio pada lintasan
+" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="210dp"
+                android:layout_gravity="center"
+                android:src="@drawable/sk_3" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Hasil Pemodelan lintasan #1 menggunakan PyBIMstab" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="210dp"
+                android:layout_gravity="center"
+                android:src="@drawable/sk_2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="@string/suka2" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="210dp"
+                android:layout_gravity="center"
+                android:src="@drawable/sk_1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:padding="@dimen/padding"
+                android:text="Cakupan area Longsor pada Lintasan" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

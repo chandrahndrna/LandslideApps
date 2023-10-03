@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.landslide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LANDSLIDE">
+        <activity android:name=".SidamuktiActivity"></activity>
+        <activity android:name=".PasirJambuActivity" />
+        <activity android:name=".SukataniActivity" />
+        <activity android:name=".CibitungActivity" />
+        <activity android:name=".MetodePrediksiActivity" />
+        <activity android:name=".GeoteknikActivity" />
+        <activity android:name=".GeofisikaActivity" />
+        <activity android:name=".FaktorActivity" />
+        <activity android:name=".DefinisiActivity" />
+        <activity android:name=".ReferensiActivity" />
+        <activity android:name=".PrediksiActivity" />
+        <activity android:name=".MetodeActivity" />
+        <activity android:name=".LongsorActivity" />
+        <activity android:name=".JenisActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

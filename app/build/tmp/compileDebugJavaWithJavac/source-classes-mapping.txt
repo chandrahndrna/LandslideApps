@@ -1,0 +1,48 @@
+com/example/landslide/SukataniActivity.java
+ com.example.landslide.SukataniActivity
+com/example/landslide/CibitungActivity.java
+ com.example.landslide.CibitungActivity
+com/example/landslide/PasirJambuActivity.java
+ com.example.landslide.PasirJambuActivity
+com/example/landslide/JenisActivity.java
+ com.example.landslide.JenisActivity
+com/example/landslide/MetodePrediksiActivity.java
+ com.example.landslide.MetodePrediksiActivity
+com/example/landslide/GeoteknikActivity.java
+ com.example.landslide.GeoteknikActivity
+com/example/landslide/LongsorActivity.java
+ com.example.landslide.LongsorActivity
+ com.example.landslide.LongsorActivity$1
+ com.example.landslide.LongsorActivity$2
+ com.example.landslide.LongsorActivity$3
+com/example/landslide/GeofisikaActivity.java
+ com.example.landslide.GeofisikaActivity
+com/example/landslide/ReferensiActivity.java
+ com.example.landslide.ReferensiActivity
+com/example/landslide/SidamuktiActivity.java
+ com.example.landslide.SidamuktiActivity
+com/example/landslide/FaktorActivity.java
+ com.example.landslide.FaktorActivity
+com/example/landslide/DefinisiActivity.java
+ com.example.landslide.DefinisiActivity
+com/example/landslide/MetodeActivity.java
+ com.example.landslide.MetodeActivity
+ com.example.landslide.MetodeActivity$1
+ com.example.landslide.MetodeActivity$2
+ com.example.landslide.MetodeActivity$3
+com/example/landslide/PrediksiActivity.java
+ com.example.landslide.PrediksiActivity
+ com.example.landslide.PrediksiActivity$1
+ com.example.landslide.PrediksiActivity$2
+ com.example.landslide.PrediksiActivity$3
+ com.example.landslide.PrediksiActivity$4
+com/example/landslide/BuildConfig.java
+ com.example.landslide.BuildConfig
+com/example/landslide/MainActivity.java
+ com.example.landslide.MainActivity
+ com.example.landslide.MainActivity$1
+ com.example.landslide.MainActivity$2
+ com.example.landslide.MainActivity$3
+ com.example.landslide.MainActivity$4
+ com.example.landslide.MainActivity$5
+ com.example.landslide.MainActivity$6

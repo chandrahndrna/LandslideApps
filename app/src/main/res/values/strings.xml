@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">LANDSLIDE</string>
+
+    <string name="definisi">
+
+        \n\n
+        <b>DEFINISI TANAH</b>
+        <br>Tanah longsor adalah perpindahan material pembentuk lereng berupa batuan, bahan rombakan, tanah, atau material campuran tersebut, bergerak ke bawah atau keluar lereng.</br>
+        <br>Proses terjadinya tanah longsor dapat diterangkan sebagai berikut: air yang meresap ke dalam tanah akan menambah bobot tanah.</br>
+        <br>Jika air tersebut menembus sampai tanah kedap air yang berperan sebagai bidang gelincir, maka tanah menjadi licin dan tanah pelapukan di atasnya akan bergerak mengikuti lereng dan keluar lereng.</br>
+
+        <br>JENIS TANAH LONGSOR</br>
+        <br>Ada 6 jenis tanah longsor, yakni: longsoran translasi, longsoran rotasi, pergerakan blok, runtuhan batu, rayapan tanah, dan aliran bahan rombakan.</br>
+        <br>Jenis longsoran translasi dan rotasi paling banyak terjadi di Indonesia. Sedangkan longsoran yang paling banyak memakan korban jiwa manusia adalah aliran bahan rombakan.</br>
+    </string>
+    
+    <string name="translasi">
+        <br><b>1. Longsoran Translasi</b></br>
+        <br>Longsoran translasi adalah ber-geraknya massa tanah dan batuan pada bidang gelincir berbentuk rata atau menggelombang landai.</br>
+    </string>
+    
+    <string name="rotasi">
+        <br><b>2. Longsoran Rotasi</b></br>
+        <br>Longsoran rotasi adalah bergerak-nya massa tanah dan batuan pada bidang gelincir berbentuk cekung.</br>
+    </string>
+    
+    <string name="blok">
+        Pergerakan blok adalah perpindahan batuan yang bergerak pada bidang gelincir berbentuk rata. Longsoran ini disebut juga longsoran translasi blok batu.
+    </string>
+    
+    <string name="batu">
+        Runtuhan batu terjadi ketika sejum-lah besar batuan atau material lain bergerak ke bawah dengan cara jatuh bebas. Umumnya terjadi pada lereng yang terjal hingga meng- gantung terutama di daerah pantai. Batu-batu besar yang jatuh dapat menyebabkan kerusakan yang parah.
+    </string>
+    
+    <string name="tanah">
+        Rayapan Tanah adalah jenis tanah longsor yang bergerak lambat. Jenis tanahnya berupa butiran kasar dan halus. Jenis tanah longsor ini hampir tidak dapat dikenali. Setelah waktu yang cukup lama longsor jenis rayapan ini bisa menyebabkan tiang-tiang telepon, pohon, atau rumah miring ke bawah.
+    </string>
+    
+    <string name="rombakan">
+        Jenis tanah longsor ini terjadi ketika massa tanah bergerak didorong oleh air. Kecepatan aliran tergantung pada kemiringan lereng, volume dan tekanan air, dan jenis materialnya. Gerakannya terjadi di sepanjang lembah dan mampu mencapai ratusan meter jauhnya. Di beberapa tempat bisa sampai ribuan meter seperti di daerah aliran sungai di sekitar gunungapi. Aliran tanah ini dapat menelan korban cukup banyak.
+    </string>
+
+    <string name="hujan">
+        <br><b>1.	Hujan </b></br>
+        <br>Ancaman tanah longsor biasanya dimulai pada bulan November karena meningkatnya intensitas curah hujan. Musim kering yang panjang akan menyebabkan terjadinya penguapan air di permukaan tanah dalam jumlah besar. Hal itu mengakibatkan munculnya pori-pori atau rongga tanah   hingga   terjadi   retakan   dan   merekahnya   tanah   permukaan.</br>
+    </string>
+    
+    <string name="lereng">
+        <br><b>2. Lereng Terjal </b> </br>
+        <br>Lereng atau tebing yang terjal akan memperbesar gaya pendorong. Lereng yang terjal terbentuk karena pengikisan air sungai, mata air, air laut, dan angin. Kebanyakan sudut lereng yang menyebabkan longsor adalah 180 apabila ujung lerengnya terjal dan bidang longsorannya mendatar.</br>
+    </string>
+
+    <string name="padat">
+        Jenis tanah yang kurang padat adalah tanah lempung atau tanah liat dengan ketebalan lebih dari 2,5 m dan sudut lereng lebih dari 220. Tanah jenis ini memiliki potensi untuk terjadinya tanah longsor terutama bila terjadi hujan. Selain itu tanah ini sangat rentan terhadap pergerakan tanah karena menjadi lembek terkena air dan pecah ketika hawa terlalu panas.
+    </string>
+
+    <string name="batuan">
+        Batuan endapan gunung api dan batuan sedimen berukuran pasir dan campuran antara kerikil, pasir, dan lempung umumnya kurang kuat. Batuan tersebut akan mudah menjadi tanah bila mengalami proses pelapukan dan umumnya rentan terhadap tanah longsor bila terdapat pada lereng yang terjal.
+    </string>
+
+    <string name="tata">
+        Tanah longsor banyak terjadi di daerah tata lahan persawahan, perladangan, dan adanya genangan air di lereng yang terjal. Pada lahan persawahan akarnya kurang kuat untuk mengikat butir tanah dan membuat tanah menjadi lembek dan jenuh dengan air sehingga mudah terjadi longsor. Sedangkan untuk daerah perladangan penyebabnya adalah karena akar pohonnya tidak dapat menembus bidang longsoran yang dalam dan umumnya terjadi di daerah longsoran lama.
+    </string>
+
+    <string name="getaran">
+        Getaran yang terjadi biasanya diakibatkan oleh gempabumi, ledakan, getaran mesin, dan getaran lalulintas kendaraan. Akibat yang ditimbulkannya adalah tanah, badan jalan, lantai, dan dinding rumah menjadi retak.
+    </string>
+
+    <string name="susut">
+        7.	Susut muka airAkibat susutnya muka air yang cepat di danau maka gaya penahan danau atau lereng menjadi hilang, dengan sudut kemiringan waduk 220 mudah bendungan terjadi longsoran dan penurunan tanah yang biasanya diikuti oleh retakan
+    </string>
+
+    <string name="beban">
+        Adanya beban tambahan seperti beban bangunan pada lereng, dan kendaraan akan memperbesar gaya pendorong terjadinya longsor, terutama di sekitar tikungan jalan pada daerah lembah. Akibatnya adalah sering terjadinya penurunan tanah dan retakan yang arahnya ke arah lembah.
+    </string>
+
+    <string name="erosi">
+        Pengikisan banyak dilakukan oleh air sungai ke arah tebing. Selain itu akibat penggundulan hutan di sekitar tikungan sungai, tebing akan menjadi terjal.
+    </string>
+
+    <string name="material">
+        Untuk mengembangkan dan memperluas lahan pemukiman umumnya dilakukan pemotongan tebing dan penimbunan lembah. Tanah timbunan pada lembah tersebut belum terpadatkan sempurna seperti tanah asli yang berada di bawahnya. Sehingga apabila hujan akan terjadi penurunan tanah yang kemudian diikuti dengan retakan tanah
+    </string>
+
+    <string name="bekas">
+        Bekas Longsoran	lama umumnya	terjadi	selama	dan	setelah	terjadi pengendapan material gunung api pada lereng yang relatif terjal atau pada saat atau sesudah terjadi patahan kulit bumi. Bekas longsoran lama memilki ciri:
+
+            •	Adanya tebing terjal yang panjang melengkung membentuk tapal kuda.
+            •	Umumnya dijumpai mata air, pepohonan yang relatif tebal karena tanahnya gembur dan subur.
+            •	Daerah badan longsor bagian atas umumnya relatif landai.
+            •	Dijumpai longsoran kecil terutama pada tebing lembah.
+            •	Dijumpai tebing-tebing relatif terjal yang merupakan bekas longsoran kecil pada longsoran lama.
+            •	Dijumpai alur lembah dan pada tebingnya dijumpai retakan dan longsoran kecil.
+            •	Longsoran lama ini cukup luas.
+
+    </string>
+
+    <string name="sinambung">
+        Bidang tidak sinambung ini memiliki ciri:
+
+            •	Bidang perlapisan batuan
+            •	Bidang kontak antara tanah penutup dengan batuan dasar
+            •	Bidang kontak antara batuan yang retak-retak dengan batuan yang kuat.
+            •	Bidang kontak antara batuan yang dapat melewatkan air dengan batuan yang tidak melewatkan air (kedap air).
+            •	Bidang kontak antara tanah yang lembek dengan tanah yang padat.
+
+            Bidang-bidang tersebut merupakan bidang lemah dan dapat berfungsi sebagai bidang luncuran tanah longsor.
+
+    </string>
+
+    <string name="hutan">
+        Tanah longsor umumnya banyak terjadi di daerah yang relatif gundul dimana pengikatan air tanah sangat kurang
+    </string>
+
+    <string name="sampah">
+        Penggunaan lapisan tanah yang rendah untuk pembuangan sampah dalam jumlah banyak dapat mengakibatkan tanah longsor apalagi ditambah dengan guyuran hujan, seperti yang terjadi di Tempat Pembuangan Akhir Sampah Leuwigajah di Cimahi. Bencana ini menyebabkan sekitar 120 orang lebih meninggal.
+    </string>
+
+    <string name="geofisika">
+       <br><b>Metode Geofisika : Geolistrik</b></br>
+            <br>Penelitian ini menggunakan metode geolistrik konfigurasi dipole-dipole dengan tujuan untuk mengetahui pola persebaran batuan penyusun dengan menganalisis nilai resistivitas. Metode ini merupakan salah satu metode geofisika yang digunakan untuk menyelidiki struktur bawah permukaan dengan menggunakan sifat-sifat kelistrikan suatu batuan. Parameter fisis yang diukur dalam metode resistivitas adalah tahanan jenis atau resistivitas. Metode geolistrik umumnya digunakan untuk eksplorasi dangkal, sekitar 300–500 meter.
+                Prinsip dalam metode ini, arus listrik diinjeksikan arus listrik DC (Dirrect Current) melalui dua buah elektroda kedalam tanah, kemudian akan terukur pada alat nilai beda potensial (Yuliana, 2017). sedangkan beda potensial yang terjadi diukur dengan dua buah elektroda potensial. Hasil pengukuran arus dan bedapotensial dapat diperoleh dari variasi nilai resistivitas batuan di bawah permukaan yang disesuaikan dengan informasi geologi lokalnya. Metode resistivitas menganggap bahwa material bumi memiliki sifat resistif atau seperti perilaku resistor. Material–materialnya memiliki perbedaan dalam menghantarkan arus listrik, sehingga nilai resistivitas batuan di setiap wilayah akan memiliki nilai dan karakteristik yang berbeda pula </br>
+    </string>
+
+    <string name="geoo2">
+        Metode geolistrik tahanan jenis (resistivitas) merupakan metode yang memanfaatkan sifat resistivitas listrik batuan untuk mendeteksi dan memetakan formasi bawah permukaan (Brahmantyo, 2014). Metode ini dapat dimanfaatkan dalam survei mengenai daerah rawan longsor, khususnya untuk menentukan ketebalan lapisan yang berpotensi longsor, kedalaman bidang gelincir serta litologi perlapisan batuan bawah permukaan (Brahmantyo, 2014).
+    </string>
+
+    <string name="geoteknik">
+        <br><b>Metode Geoteknik : Karakteristik Material Longsoran</b></br>
+        <br>metode geoteknik memberikan informasi bahwa kemiringan lereng yang mengindikasikan wilayah tersebut dalam keadaan kritis dan berpotensi untuk terjadinya longsor. Metode Geoteknik dapat memberikan detail mengenai karakteristik material tanah dan mekanika tanah.
+        Faridlah dkk, (2016) telah melakukan karakterisasi tanah dengan menggunakan metode geoteknik dengan adanya karakteristik indeks (index properties) yang dapat mengindikasikan jenis dan kondisi suatu tanah. Wibowo, (2011) .telah melakukan karakterisasi sifat fisik dan mekanik tanah residual meliputi kadar air (w), berat jenis (Gs), distribusi besar butir tanah, batas – batas Atterberg, sudut geser dalam efektif untuk mengetahui tegangan geser tanah, dan kohesi efektif.
+        Metode untuk menganalisis stabilitas lereng dapat digunakan dengan bantuan pemodelan pada software GeoStudio. Dalam software Geostudio beberapa metode untuk menganalisis stabilitas lereng dalam metode geoteknik diantaranya, Morgenstren – Price method (M – P – M), Spencer method, Bishop simplifield method, Janbu method, Ordinary method, dan Spencer method.
+
+        Analisis Stabilitas lereng pada ruas jalan raya Cadas Pangeran, Sumedang dengan hasil perhitungan FK 1,050 metode geoteknik Morgenstern – price yaitu salah satu metode yang menerapkan prinsip kesetimbangan batas dari tiap – tiap gaya normal dan momen yang bekerja pada tiap irisan dari bidang kelongsoran. Hubungan – hubungan antara gaya normal (N) dan gaya antar irisan (E, T)</br>
+
+    </string>
+
+    <string name="geoof2">
+    Analisis Stabilitas lereng pada ruas jalan raya Cadas Pangeran, Sumedang dengan hasil perhitungan FK 1,050
+
+    metode geoteknik Morgenstern – price yaitu salah satu metode yang menerapkan prinsip kesetimbangan batas dari tiap – tiap gaya normal dan momen yang bekerja pada tiap irisan dari bidang kelongsoran. Hubungan – hubungan antara gaya normal (N) dan gaya antar irisan (E, T) dapat dilihat pada Gambar.
+    </string>
+
+    <string name="prediksi">
+        <br><b>Prediksi Jarak jangkauan dan Kecepatan Longsor</b></br>
+        <br>Dalam memprediksi jarak jangkauan Jaboyedoff (2011) menggunakan pendekatan model gesekan Coulomb sederhana dengan menganggap bahwa massa tanah bergerak hanya dipengaruhi oleh gaya gravaitasi dan gaya gesek bidang gelincir. Pada penelitian Firmansyah dkk, (2015) mengenai prediksi jarak jangkauan menyatakan bahwa pergerakan tanah dapat ditentukan menggunakan pendekatan geometri sederhana dengan menghitung energi potensial awal yang dibawa oleh masa tanah seperti yang ditunjukkan pada Gambar
+
+        Parameter Geometri yang Digunakan untuk Menganalisis Kecepatan dan Jarak Jangkauan (run – out) Pergerakan Pusat Massa Tanah
+
+        Dalam memprediksi jarak jangkauan, penentuan pusat massa sangat penting karena akan mempengaruhi dalam parameter geotmetri dalam pemodelan. Pusat massa berada pada area hijau. Sebelum proses penentuan jarak jangkauan longsor, diperlukan informasi tanah dalam lereng tersebut. Setelah informasi itu diperoleh maka langkah selanjutnya adalah menganalisis jarak jangkauan longsor. Melalui pendekatan geometri sederhana, pergerakan tanah dapat ditentukan dengan menghitung energi potensial awal yang dibawa oleh massa tanah yang mana pendekatan ini dikenal sebagai model gesekan Coulomb sederhana.
+            Melalui pendekatan geometri sederhana, pergerakan tanah dapat ditentukan dengan menghitung energi potensial awal yang dibawa oleh massa tanah yang mana pendekatan ini dikenal sebagai model gesekan Coulomb sederhana.</br>
+
+    </string>
+
+    <string name="pred2">
+        Parameter Geometri yang Digunakan untuk Menganalisis Kecepatan dan Jarak Jangkauan (run – out) Pergerakan Pusat Massa Tanah
+
+        Dalam memprediksi jarak jangkauan, penentuan pusat massa sangat penting karena akan mempengaruhi dalam parameter geotmetri dalam pemodelan. Pusat massa berada pada area hijau. Sebelum proses penentuan jarak jangkauan longsor, diperlukan informasi tanah dalam lereng tersebut. Setelah informasi itu diperoleh maka langkah selanjutnya adalah menganalisis jarak jangkauan longsor. Melalui pendekatan geometri sederhana, pergerakan tanah dapat ditentukan dengan menghitung energi potensial awal yang dibawa oleh massa tanah yang mana pendekatan ini dikenal sebagai model gesekan Coulomb sederhana.
+        Melalui pendekatan geometri sederhana, pergerakan tanah dapat ditentukan dengan menghitung energi potensial awal yang dibawa oleh massa tanah yang mana pendekatan ini dikenal sebagai model gesekan Coulomb sederhana seperti yang ditunjukkan pada Gambar 2.20.
+
+    </string>
+
+    <string name="referensi">
+        Referensi
+<br>Awal, R. F., Feranie, S., Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI TOL BOGOR CIAWI SUKABUMI, KABUPATEN BOGOR. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 415-419).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1867</br>
+<br>Salsabila, G. A., Feranie, S.,  Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI KAMPUNG CIBITUNG, KECAMATAN PANGALENGAN, KABUPATEN BANDUNG. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 390-395).
+    http://proceedings.upi.edu/index.php/sinafi/article/view/1863</br>
+<br>Fuji, A. S. Y., Feranie, S.,  Tohari, A. (2021). KARAKTERISASI SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI RUAS JALAN KERETA API SUKATANI-CIGANEA. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 396-400).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1864</br>
+<br>Auliya, A. L., Feranie, S.,  Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI SIDAMUKTI, PANGALENGAN. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 401-408).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1865</br>
+<br>Lestari, F., Feranie, S., Tohari, A. (2021). KARAKTERISASI SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI PASIRJAMBU, BANDUNG. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 409-414).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1866</br>
+
+
+    </string>
+
+    <string name="cbtung">
+        Hasil prediksi run – out distance gerakan lereng tanah berdasarkan hasil pemodelan ini dapat menggambarkan cakupan area longsor, seperti yang ditunjukkan pada Gambar 4.10 dan Gambar 4.11. Menurut Varnes (1978) dengan kecepatan lebih dari 3 m/s maka longsoran pada lereng tersebut tergolong longsoran sangat cepat dengan tipe pergerakan lereng fall
+    </string>
+
+    <string name="sukatani">
+        Daerah Sukatani, Kabupaten Purwakarta dan secara geografis daerah penelitian berada pada latitude -6.58582 dan longitude 107.420022. Kabupaten Purwakarta ini memiliki luas wilayah administratif sebesar 971,72 km2 yang terdiri dari 17 kecamatan yang terletak diantara 107⁰30’ – 107⁰40’ Bujur Timur dan 6⁰25’ – 6⁰45’ Lintang Selatan. Dibagian Utara Kabupaten Purwakarta ini berbatasan dengan Kabupaten Karawang dan Kabupaten Subang.
+    </string>
+
+    <string name="suka2">
+        Melalui pemodelan Geostudio Slope/W 2021 R2 diperoleh hasil prediksi jarak jangkauan (Run-out) sepanjang 23,39 m dengan prediksi kecepatan longsoran sebesar 5,69 m/s sedangkan menggunakan pemodelan blok dalam matriks (BIM) . diperoleh prediksi jarak jangkauan (Run-out distance) sepanjang 23,37 m dan prediksi kecepatan longsoran sebesar 5,77 m/s. Geometri permukaan bidang gelincir termasuk kedalam bidang gelincir rata atau hampir lurus (translational slide) dengan permukaan. Dengan prediksi jarak jangkauan yang diperkirakan dapat mencapai sekitar 23,40 m dari arah timur (ruas jalan kereta api Sukatani-Ciganea) menuju arah barat dengan kecepatan sekitar 5,73 m/s, area terdampak apabila longsoran ini terjadi terlihat pada gambar berikut
+    </string>
+
+    <string name="pjambu">
+        Berdasarkan Turner dan Schuster (1996), kecepatan longsor ini termasuk kedalam zona longsor dengan pergerakan sangat cepat.
+        Dengan Prediksi jarak jangkauan yaitu sebesar 63,17 m dengan kecepatan sebesar 10,9 m/s yang dapat berdampak pada tertutupnya jalan desa Margamulya oleh bahan longsoran seperti yang ditunjukkan pada gambar berikut
+
+    </string>
+
+    <string name="sidamuk">
+        Parameter yang digunakan dalam analisis jarak jangkauan dan kecepatan longsor dengan pendekatan pusat massa pada pemodelan pyBIMstab dan geo studio pada lintasan . Berdasarkan perkiraan kecepatannya, longsor di daerah penelitian dapat diklasifikasikan sebagai longsor sangat cepat. Tanah longsor dapat berubah menjadi aliran tanah yang melibatkan lapisan tanah yang tebal. dengan kecepatan gerakan yang tinggi dan gerakan tanah dipengaruhi oleh air tanah maka tipe gerakan lereng yaitu debrisflow. Berdasarkan gambar berikut  terlihat dari jarak jangkauan longsor bahwa jika terjadi longsor maka akan memakan korban materil yaitu bangunan sebanyak ±15 bangunan.
+    </string>
+
+    <string name="changeLang">
+        Ganti Bahasa
+    </string>
+
+
+</resources>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LANDSLIDE</string>
+
+    <string name="definisi">
+
+        \n\n
+        <b>DEFINITION OF LAND</b>
+        <br>Landslide is the displacement of slope-forming material in the form of rock, debris, soil, or mixed material, moving down or off the slope</br>
+        <br>The process of occurrence of landslides can be explained as follows: water that seeps into the ground will add to the weight of the soil.</br>
+        <br>If the water penetrates into the impermeable soil which acts as a slip surface, then the soil becomes slippery and the weathered soil above it will move along the slope and off the slope</br>
+
+        <br>SLANDSLIDE TYPES</br>
+        <br>There are 6 types of landslides, namely: translational slide, rotational slide, block movement, rockfall, soil creep, and debris flow.</br>
+        <br>The most common types of translational and rotational avalanches occur in Indonesia. Meanwhile, the avalanche that takes the most human lives is the flow of debris.</br>
+    </string>
+
+    <string name="translasi">
+        <br><b>1. Translation Avalanche</b></br>
+        <br>Translational slides are the movement of soil and rock masses on flat or undulating slip planes..</br>
+    </string>
+
+    <string name="rotasi">
+        <br><b>2. Rotation Avalanche </b></br>
+        <br>Rotational slide is the movement of soil and rock masses on a concave-shaped slip plane.</br>
+    </string>
+
+    <string name="blok">
+        The movement of the block is the movement of rock that moves on a flat slip surface. This slide is also called a rock block translational slide.
+    </string>
+
+    <string name="batu">
+        Rockfall occurs when a large amount of rock or other material moves downward in free fall. Generally occurs on steep slopes to hang, especially in coastal areas. Falling boulders can cause extensive damage.
+    </string>
+
+    <string name="tanah">
+        Landslide is a slow moving type of landslide. The soil type is coarse and fine granules. This type of landslide is almost unrecognizable. After a long period of time, a landslide of this type of creep can cause telephone poles, trees or houses to tilt downward.
+    </string>
+
+    <string name="rombakan">
+        This type of landslide occurs when a moving mass of soil is propelled by water. Flow velocity depends on slope gradient, water volume and pressure, and the type of material. Its movements occur along valleys and can reach hundreds of meters away. In some places it can reach thousands of meters, such as in watersheds around volcanoes. This ground flow can claim quite a lot of victims.
+    </string>
+
+    <string name="hujan">
+        <br><b>1.	Rain </b></br>
+        <br>The threat of landslides usually starts in November due to the increasing intensity of rainfall. The long dry season will cause large amounts of evaporation of water on the ground surface. This results in the appearance of pores or cavities in the soil causing cracks and cracks to form in the surface soil.</br>
+    </string>
+
+    <string name="lereng">
+        <br><b>2. Steep Slopes </b> </br>
+        <br>Steep slopes or cliffs will increase the driving force. The steep slopes are formed by the erosion of river water, springs, sea water and wind. Most slope angles that cause landslides are 180 if the end of the slope is steep and the plane of the slide is flat.</br>
+    </string>
+
+    <string name="padat">
+        The type of soil that is less dense is loam or loamy soil with a thickness of more than 2.5 m and a slope angle of more than 220. This type of soil has the potential for landslides, especially when it rains. In addition, this soil is very vulnerable to soil movement because it becomes soft when exposed to water and cracks when the weather is too hot.
+    </string>
+
+    <string name="batuan">
+        Volcanic sedimentary rocks and sedimentary rocks are sand-sized and mixtures of gravel, sand and clay are generally less strong. These rocks will easily become soil when weathering processes and are generally prone to landslides when found on steep slopes.
+    </string>
+
+    <string name="tata">
+        Landslides often occur in areas of paddy fields, cultivation, and there are puddles of water on steep slopes. In paddy fields the roots are not strong enough to bind the soil grains and make the soil soft and saturated with water so that landslides easily occur. As for cultivation areas, the cause is because tree roots cannot penetrate deep landslide areas and generally occur in old landslide areas.
+    </string>
+
+    <string name="getaran">
+        The vibrations that occur are usually caused by earthquakes, explosions, engine vibrations, and vehicle traffic vibrations. The result is that the ground, roads, floors and walls of houses are cracked.
+    </string>
+
+    <string name="susut">
+        7.	Shrink
+        Loss of water level As a result of the rapid decrease in the water level in the lake, the retaining force of the lake or slope is lost, with a slope angle of 220 the reservoir is easy to dam, landslides and land subsidence occur which are usually followed by cracks
+    </string>
+
+    <string name="beban">
+        The existence of additional loads such as building loads on slopes and vehicles will increase the driving force for landslides, especially around road bends in valley areas. The result is frequent land subsidence and cracks that lead to the valley.
+    </string>
+
+    <string name="erosi">
+        Most of the erosion is carried out by river water towards the cliffs. In addition, due to deforestation around river bends, the cliffs will become steep.
+    </string>
+
+    <string name="material">
+        In order to develop and expand residential land, cliff cutting and valley filling are generally carried out. The heaped soil in the valley has not been completely compacted like the original soil beneath it. So that when it rains there will be land subsidence which is then followed by soil cracks
+    </string>
+
+    <string name="bekas">
+        Old landslides generally occur during and after the deposition of volcanic material on relatively steep slopes or during or after a fault in the earth crust. Old landslides have the following characteristics:
+
+            • There is a long, steep cliff that curves to form a horseshoe.
+            • Generally found springs, trees that are relatively thick because the soil is loose and fertile.
+            • The upper part of the landslide body is generally relatively sloping.
+            • Encountered small avalanches, especially on the cliffs of the valley.
+            • Found relatively steep cliffs which are traces of small landslides in old landslides.
+            • Encountered valley grooves and on the cliffs found small cracks and landslides.
+            • This old slide is quite extensive.
+    </string>
+
+    <string name="sinambung">
+        This discontinuous field has the following properties:
+
+            • Rock bedding areas
+            • Contact area between overburden and bedrock
+            • Contact area between fractured rock and strong rock.
+            • Contact area between rocks that can pass water and rocks that dont pass water (watertight).
+            • Contact area between soft soil and compacted soil.
+
+            These areas are weak areas and can function as landslide slide fields.
+    </string>
+
+    <string name="hutan">
+        Landslides generally occur in relatively barren areas where groundwater binding is lacking
+    </string>
+
+    <string name="sampah">
+        The use of a low layer of soil for disposal of large amounts of waste can result in landslides, especially when coupled with rain, as happened at the Leuwigajah Final Waste Disposal Site in Cimahi. This disaster caused about 120 more people died.
+    </string>
+
+    <string name="geofisika">
+       <br><b>Geophysics Method : Geoelectric</b></br>
+            <br>This research uses the dipole-dipole configuration geoelectric method with the aim of knowing the distribution pattern of the constituent rocks by analyzing resistivity values. This method is one of the geophysical methods used to investigate subsurface structures by using the electrical properties of a rock. The physical parameter measured in the resistivity method is resistivity or resistivity. The geoelectrical method is generally used for shallow exploration, around 300–500 meters.
+                The principle in this method is that an electric current is injected with a DC (Direct Current) electric current through two electrodes into the ground, then it will be measured on a potential difference value tool (Yuliana, 2017). while the potential difference that occurs is measured by two potential electrodes. The results of current and potential difference measurements can be obtained from variations in the resistivity values ​​of the subsurface rock adjusted for local geological information. The resistivity method assumes that the earth material has resistive properties or resistor-like behavior. The materials have differences in conducting electric current, so that the resistivity values​of the rocks in each region will have different values​and characteristics </br>
+    </string>
+
+    <string name="geoo2">
+        The resistivity geoelectric method is a method that utilizes the electrical resistivity properties of rocks to detect and map subsurface formations (Brahmantyo, 2014). this method
+    </string>
+
+    <string name="geoteknik">
+        <br><b>Geotechnical Methods: Characteristics of Avalanche Materials</b></br>
+        <br>The geotechnical method provides information that the slope of the slope indicates that the area is in a critical condition and has the potential for landslides to occur. Geotechnical methods can provide details regarding the characteristics of soil materials and soil mechanics.
+        Faridlah et al, (2016) have carried out soil characterization using geotechnical methods with index properties that can indicate the type and condition of a soil. Wibowo, (2011). has characterized the physical and mechanical properties of residual soil including water content (w), specific gravity (Gs), distribution of grain size, Atterberg limits, effective internal shear angle to determine soil shear stress, and cohesion. effective.
+        Methods for analyzing slope stability can be used with the help of modeling in GeoStudio software. In the Geostudio software several methods for analyzing slope stability in geotechnical methods include, Morgenstren – Price method (M – P – M), Spencer method, Bishop simplified method, Janbu method, Ordinary method, and Spencer method.
+
+            Analysis of slope stability on the Cadas Pangeran highway section, Sumedang with the results of the calculation of FK 1.050 using the Morgenstern – price geotechnical method, which is a method that applies the principle of boundary equilibrium of each normal force and moment acting on each section of the sliding plane. Relationship – the relationship between the normal force (N) and the force between the slices (E, T)</br>
+    </string>
+
+    <string name="geoof2">
+        Analysis of slope stability on the Cadas Prince highway, Sumedang with the calculation results of the FK 1.050
+
+        the Morgenstern – price geotechnical method is a method that applies the principle of boundary equilibrium of each normal force and moment acting on each section of the sliding plane. The relationship between the normal force (N) and the inter-slice force (E, T) can be seen in Fig.
+    </string>
+
+    <string name="prediksi">
+        <br><b>Prediction of Landslide Range and Speed</b></br>
+        <br>In predicting reach distances Jaboyedoff (2011) uses a simple Coulomb friction model approach by assuming that the moving soil mass is only influenced by gravity and sliding frictional forces. In Firmansyah et als research, (2015) regarding the prediction of range distance states that ground motion can be determined using a simple geometric approach by calculating the initial potential energy carried by the soil mass as shown in Figure
+
+        Geometry Parameters Used to Analyze the Speed ​​and Range (run – out) of the Movement of the Soil Center of Mass
+
+        In predicting the range, determining the center of mass is very important because it will affect the geometric parameters in modeling. The center of mass is in the green area. Prior to the process of determining the range of landslides, soil information on the slope is required. After the information is obtained, the next step is to analyze the range of the landslide. Through a simple geometric approach, ground motion can be determined by calculating the initial potential energy carried by the soil mass in which this approach is known as the simple Coulomb friction model.Through a simple geometric approach, ground motion can be determined by calculating the initial potential energy carried by the soil mass in which this approach is known as the simple Coulomb friction model.</br>
+    </string>
+
+    <string name="pred2">
+        Geometry Parameters Used to Analyze the Speed ​​and Range (run – out) of the Movement of the Soil Center of Mass
+
+        In predicting the range, determining the center of mass is very important because it will affect the geometric parameters in modeling. The center of mass is in the green area. Prior to the process of determining the range of landslides, soil information on the slope is required. After the information is obtained, the next step is to analyze the range of the landslide. Through a simple geometric approach, ground motion can be determined by calculating the initial potential energy carried by the soil mass in which this approach is known as the simple Coulomb friction model.
+        Through a simple geometric approach, ground motion can be determined by calculating the initial potential energy carried by the soil mass in which this approach is known as the simple Coulomb friction model as shown in Figure 2.20.
+    </string>
+
+    <string name="referensi">
+        Referensi
+<br>Awal, R. F., Feranie, S., Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI TOL BOGOR CIAWI SUKABUMI, KABUPATEN BOGOR. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 415-419).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1867</br>
+<br>Salsabila, G. A., Feranie, S.,  Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI KAMPUNG CIBITUNG, KECAMATAN PANGALENGAN, KABUPATEN BANDUNG. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 390-395).
+    http://proceedings.upi.edu/index.php/sinafi/article/view/1863</br>
+<br>Fuji, A. S. Y., Feranie, S.,  Tohari, A. (2021). KARAKTERISASI SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI RUAS JALAN KERETA API SUKATANI-CIGANEA. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 396-400).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1864</br>
+<br>Auliya, A. L., Feranie, S.,  Tohari, A. (2021). KARAKTERISTIK SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI SIDAMUKTI, PANGALENGAN. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 401-408).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1865</br>
+<br>Lestari, F., Feranie, S., Tohari, A. (2021). KARAKTERISASI SIFAT FISIK TANAH RESIDUAL LERENG RAWAN LONGSOR DI PASIRJAMBU, BANDUNG. In Seminar Nasional Fisika (Vol. 1, No. 1, pp. 409-414).
+    http://proceedings2.upi.edu/index.php/sinafi/article/view/1866</br>
+
+
+    </string>
+
+    <string name="cbtung">
+        The results of the prediction of the run – out distance of slope movement based on the results of this modeling can describe the coverage of the landslide area, as shown in Figure 4.10 and Figure 4.11. According to Varnes (1978) with a speed of more than 3 m/s, the avalanche on the slope is classified as a very fast avalanche with the type of movement of the fall slope.
+    </string>
+
+    <string name="sukatani">
+        Sukatani Region, Purwakarta Regency and geographically the study area is at latitude -6.58582 and longitude 107.420022. Purwakarta Regency has an administrative area of ​​971.72 km2 consisting of 17 sub-districts which are located between 107⁰30 – 107⁰40 East Longitude and 6⁰25 – 6⁰45 South Latitude. In the northern part of Purwakarta Regency, it is bordered by Karawang Regency and Subang Regency.
+    </string>
+
+    <string name="suka2">
+        Through the Geostudio Slope/W 2021 R2 modeling, the results of a predicted run-out of 23.39 m were obtained with a predicted avalanche velocity of 5.69 m/s while using block-in-matrix (BIM) modeling. the predicted run-out distance is 23.37 m and the predicted avalanche speed is 5.77 m/s. The surface geometry of the slip plane includes an even or almost straight (translational slide) plane with the surface. With a predicted reach distance of around 23.40 m from the east (Sukatani-Ciganea railroad section) heading west at a speed of around 5.73 m/s, the area affected if this landslide occurs is shown in the following figure
+    </string>
+
+    <string name="pjambu">
+        Based on Turner and Schuster (1996), the speed of this landslide is included in the landslide zone with very fast movement.
+        With a predicted reach distance of 63.17 m with a speed of 10.9 m/s which could have an impact on the closure of the Margamulya village road by avalanche material as shown in the following figure
+    </string>
+
+    <string name="sidamuk">
+        The parameters used in the analysis of the distance and velocity of landslides with the center of mass approach in the pyBIMstab and geostudio modeling on the trajectory. Based on the estimated velocity, landslides in the study area can be classified as very fast landslides. Landslides can turn into groundflows involving thick layers of soil. with high movement speed and soil movement influenced by ground water, the type of slope movement is debris flow. Based on the following figure, it can be seen from the range of the landslide that if a landslide occurs it will take material casualties, namely ± 15 buildings.
+    </string>
+
+    <string name="changeLang">
+        Change language
+    </string>
+
+
+</resources>
